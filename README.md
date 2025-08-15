@@ -1,59 +1,57 @@
-# ml_path
-# 6-Week Deep Learning + Math Sprint
+# ⚡ 25-Day CodeSignal Prep Plan (CP Handbook)
 
-This plan combines:
-- IBM AI Engineering Specialization (Coursera)
-- Dive into Deep Learning (https://d2l.ai)
-- Math for Machine Learning (Deisenroth)
+## 🔧 Day 1: Setup
+- Build C++ template (fast I/O, STL macros)
+- Skim Chapter 1: Basics — input/output, number ops, code shortening
 
 ---
 
-## Weekly Plan
+## 📚 Week 1 (Days 2–7): Core Techniques
 
-### Week 1
-- IBM AI: Python + Intro to ML  
-- D2L: Linear regression, softmax regression  
-- Math for ML: Ch. 2 – Linear Algebra basics (vectors, matrices, dot product)
-
----
-
-### Week 2
-- IBM AI: Supervised ML, model evaluation  
-- D2L: MLPs, activation functions  
-- Math for ML: Ch. 3 – Analytic geometry (projections, basis)
+| Day | Topic                     | CP Handbook Chapter |
+|-----|---------------------------|----------------------|
+| 2   | Time Complexity           | Ch. 2                |
+| 3   | Sorting + Binary Search   | Ch. 3                |
+| 4   | Arrays, Sets, Maps        | Ch. 4                |
+| 5   | Subsets, Permutations     | Ch. 5.1–5.2          |
+| 6   | Backtracking + Pruning    | Ch. 5.3–5.4          |
+| 7   | Mock Test #1              | Mixed topics         |
 
 ---
 
-### Week 3
-- IBM AI: Unsupervised ML + TensorFlow  
-- D2L: Backpropagation, training loops  
-- Math for ML: Ch. 4–5 – Matrix decompositions + Calculus (gradients, chain rule)
+## 📚 Week 2 (Days 8–14): Greedy, DP, Strings
+
+| Day | Topic                        | CP Handbook Chapter |
+|-----|------------------------------|----------------------|
+| 8   | Greedy (Coin, Scheduling)    | Ch. 6                |
+| 9   | Greedy (Deadlines, Compression) | Ch. 6             |
+| 10  | DP (Coin, LIS)               | Ch. 7.1–7.2          |
+| 11  | DP (Grid Paths, Subsets)     | Ch. 7.3–7.4          |
+| 12  | String Algorithms            | Ch. 8                |
+| 13  | Mock Test #2                 | Mixed topics         |
+| 14  | Review Day                   | Debug + recap        |
 
 ---
 
-### Week 4
-- IBM AI: Convolutional Neural Networks (CNNs)  
-- D2L: Convolutional layers, pooling  
-- Math for ML: Ch. 7 – Optimization (gradient descent, convexity)
+## 📚 Week 3 (Days 15–21): Graphs, Math, Edge Cases
+
+| Day | Topic                        | CP Handbook Chapter |
+|-----|------------------------------|----------------------|
+| 15  | Graphs (DFS, BFS)            | Ch. 9.1–9.2          |
+| 16  | Graphs (Shortest Paths)      | Ch. 9.3–9.4          |
+| 17  | Graphs (Toposort, SCC)       | Ch. 9.5–9.6          |
+| 18  | Math (Primes, GCD, Mod)      | Ch. 10               |
+| 19  | Practice Day                 | Mixed                |
+| 20  | Mock Test #3                 | Full simulation      |
+| 21  | Review Day                   | Fix bugs             |
 
 ---
 
-### Week 5
-- IBM AI: Recurrent Neural Networks (RNNs)  
-- D2L: RNNs, GRUs, LSTMs  
-- Math for ML: Review Calculus + Optimization
+## 📚 Week 4 (Days 22–25): Final Polish
 
----
-
-### Week 6
-- IBM AI: Capstone project  
-- D2L: Attention mechanisms, Transformers  
-- Math for ML: Final review or revisit weak spots
-
----
-
-## Output After 6 Weeks
-- IBM AI certificate  
-- Solid math intuition for DL  
-- Deep Learning models built from scratch  
-- One personal DL project (vision or NLP)
+| Day | Task                          |
+|-----|-------------------------------|
+| 22  | Solve 5 mixed problems        |
+| 23  | Mock Test #4                  |
+| 24  | Review best/worst problems    |
+| 25  | Warm-up + take CodeSignal test |
